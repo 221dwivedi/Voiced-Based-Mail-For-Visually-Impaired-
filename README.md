@@ -1,3 +1,6 @@
+**#Installation :**
+pip install pyttsx3
+If you get installation errors , make sure you first upgrade your wheel version using : pip install --upgrade wheel
 # Voiced-Based-Mail-For-Visually-Impaired-
 import speech_recognition as sr
 import smtplib
